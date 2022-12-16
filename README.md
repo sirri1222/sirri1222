@@ -1,5 +1,7 @@
 ### welcome hyunji 's home 👋
-![header](https://capsule-render.vercel.app/api?type=waving)
+![##About me](https://capsule-render.vercel.app/api?type=waving)
+
+
 ##About me
 
 
