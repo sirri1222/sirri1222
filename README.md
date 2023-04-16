@@ -35,15 +35,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsirri1222%2Fhit-counter&count_bg=%23F5A8E9&title_bg=%238DDEEF&icon=fluentd.svg&icon_color=%23ECFF82&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
-
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirri1222&show_icons=true&theme=aura_dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirri1222)](https://github.com/sirri1222/github-readme-stats)
-
-
 </div>
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
