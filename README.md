@@ -1,6 +1,6 @@
 ### welcome hyunji 's home 👋
-##studying
 
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=hyunji'sHome%20&fontSize=90)
 <div align-"center">
 <h4>📚 Tech Stacks</h4><br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -37,7 +37,6 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=hyunji'sHome%20&fontSize=90)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirri1222&show_icons=true&theme=aura_dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirri1222)](https://github.com/sirri1222/github-readme-stats)
